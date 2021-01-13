@@ -1,6 +1,6 @@
 # Forex-excahnge
 
-![Social Banner](https://github.com/willBear/Forex_Exchange_PyQT5/blob/master/Forex_exchange.png)
+![Social Banner](https://github.com/85599/Forex-excahnge/blob/master/Forex-exch.jpg)
 
 # Forex_Exchange_PyQT5
 A PyQT5 Application that displays currency rates and historical rates using Matplotlib
